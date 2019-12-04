@@ -1,0 +1,21 @@
+D:\Repaso\DatosV\bin\Debug\DatosV.dll
+D:\Repaso\DatosV\bin\Debug\DatosV.pdb
+D:\Repaso\DatosV\obj\Debug\DatosV.csprojResolveAssemblyReference.cache
+D:\Repaso\DatosV\obj\Debug\DatosV.dll
+D:\Repaso\DatosV\obj\Debug\DatosV.pdb
+E:\Repaso\DatosV\bin\Debug\DatosV.dll
+E:\Repaso\DatosV\bin\Debug\DatosV.pdb
+E:\Repaso\DatosV\obj\Debug\DatosV.csprojAssemblyReference.cache
+E:\Repaso\DatosV\obj\Debug\DatosV.csproj.CoreCompileInputs.cache
+E:\Repaso\DatosV\obj\Debug\DatosV.dll
+E:\Repaso\DatosV\obj\Debug\DatosV.pdb
+C:\Users\USUARIO\Desktop\Repaso\DatosV\bin\Debug\DatosV.dll
+C:\Users\USUARIO\Desktop\Repaso\DatosV\bin\Debug\DatosV.pdb
+C:\Users\USUARIO\Desktop\Repaso\DatosV\obj\Debug\DatosV.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Repaso\DatosV\obj\Debug\DatosV.dll
+C:\Users\USUARIO\Desktop\Repaso\DatosV\obj\Debug\DatosV.pdb
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\DatosV\bin\Debug\DatosV.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\DatosV\bin\Debug\DatosV.pdb
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\DatosV\obj\Debug\DatosV.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\DatosV\obj\Debug\DatosV.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\DatosV\obj\Debug\DatosV.pdb

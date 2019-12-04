@@ -1,0 +1,30 @@
+D:\Repaso\LogicaV\bin\Debug\LogicaV.dll
+D:\Repaso\LogicaV\bin\Debug\LogicaV.pdb
+D:\Repaso\LogicaV\bin\Debug\DatosV.dll
+D:\Repaso\LogicaV\bin\Debug\DatosV.pdb
+D:\Repaso\LogicaV\obj\Debug\LogicaV.csprojResolveAssemblyReference.cache
+D:\Repaso\LogicaV\obj\Debug\LogicaV.dll
+D:\Repaso\LogicaV\obj\Debug\LogicaV.pdb
+E:\Repaso\LogicaV\bin\Debug\LogicaV.dll
+E:\Repaso\LogicaV\bin\Debug\LogicaV.pdb
+E:\Repaso\LogicaV\bin\Debug\DatosV.dll
+E:\Repaso\LogicaV\bin\Debug\DatosV.pdb
+E:\Repaso\LogicaV\obj\Debug\LogicaV.csprojAssemblyReference.cache
+E:\Repaso\LogicaV\obj\Debug\LogicaV.csproj.CoreCompileInputs.cache
+E:\Repaso\LogicaV\obj\Debug\LogicaV.csproj.CopyComplete
+E:\Repaso\LogicaV\obj\Debug\LogicaV.dll
+E:\Repaso\LogicaV\obj\Debug\LogicaV.pdb
+C:\Users\USUARIO\Desktop\Repaso\LogicaV\bin\Debug\LogicaV.dll
+C:\Users\USUARIO\Desktop\Repaso\LogicaV\bin\Debug\LogicaV.pdb
+C:\Users\USUARIO\Desktop\Repaso\LogicaV\bin\Debug\DatosV.dll
+C:\Users\USUARIO\Desktop\Repaso\LogicaV\bin\Debug\DatosV.pdb
+C:\Users\USUARIO\Desktop\Repaso\LogicaV\obj\Debug\LogicaV.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Repaso\LogicaV\obj\Debug\LogicaV.dll
+C:\Users\USUARIO\Desktop\Repaso\LogicaV\obj\Debug\LogicaV.pdb
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\LogicaV\bin\Debug\LogicaV.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\LogicaV\bin\Debug\LogicaV.pdb
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\LogicaV\bin\Debug\DatosV.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\LogicaV\bin\Debug\DatosV.pdb
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\LogicaV\obj\Debug\LogicaV.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\LogicaV\obj\Debug\LogicaV.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\LogicaV\obj\Debug\LogicaV.pdb

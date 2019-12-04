@@ -1,0 +1,230 @@
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\ApplicationInsights.config
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\RepasoS.dll.config
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\RepasoS.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\RepasoS.pdb
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.AI.Web.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.AI.Web.xml
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\obj\Debug\Proyect.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\obj\Debug\RepasoS.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\obj\Debug\RepasoS.pdb
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\ApplicationInsights.config
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\roslyn\csc.exe
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\roslyn\vbc.exe
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\RepasoS.dll.config
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\RepasoS.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\RepasoS.pdb
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.AI.Web.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.AI.Web.xml
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\obj\Debug\Proyect.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\obj\Debug\Proyect.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\obj\Debug\Proyect.csproj.CopyComplete
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\obj\Debug\RepasoS.dll
+C:\Users\ESTUDIANTE\Desktop\Repaso\RepasoS\obj\Debug\RepasoS.pdb
+E:\Repaso\RepasoS\bin\ApplicationInsights.config
+E:\Repaso\RepasoS\bin\roslyn\csc.exe
+E:\Repaso\RepasoS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Repaso\RepasoS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Repaso\RepasoS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Repaso\RepasoS\bin\roslyn\System.Collections.Immutable.dll
+E:\Repaso\RepasoS\bin\roslyn\System.Reflection.Metadata.dll
+E:\Repaso\RepasoS\bin\roslyn\vbc.exe
+E:\Repaso\RepasoS\bin\roslyn\VBCSCompiler.exe
+E:\Repaso\RepasoS\bin\roslyn\VBCSCompiler.exe.config
+E:\Repaso\RepasoS\bin\RepasoS.dll.config
+E:\Repaso\RepasoS\bin\RepasoS.dll
+E:\Repaso\RepasoS\bin\RepasoS.pdb
+E:\Repaso\RepasoS\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Repaso\RepasoS\bin\Microsoft.AI.DependencyCollector.dll
+E:\Repaso\RepasoS\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Repaso\RepasoS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Repaso\RepasoS\bin\Microsoft.AI.Web.dll
+E:\Repaso\RepasoS\bin\Microsoft.AI.WindowsServer.dll
+E:\Repaso\RepasoS\bin\Microsoft.ApplicationInsights.dll
+E:\Repaso\RepasoS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Repaso\RepasoS\bin\Microsoft.AI.DependencyCollector.xml
+E:\Repaso\RepasoS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Repaso\RepasoS\bin\Microsoft.AI.Web.xml
+E:\Repaso\RepasoS\bin\Microsoft.AI.WindowsServer.xml
+E:\Repaso\RepasoS\bin\Microsoft.ApplicationInsights.xml
+E:\Repaso\RepasoS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Repaso\RepasoS\obj\Debug\Proyect.csprojAssemblyReference.cache
+E:\Repaso\RepasoS\obj\Debug\Proyect.csproj.CoreCompileInputs.cache
+E:\Repaso\RepasoS\obj\Debug\Proyect.csproj.CopyComplete
+E:\Repaso\RepasoS\obj\Debug\RepasoS.dll
+E:\Repaso\RepasoS\obj\Debug\RepasoS.pdb
+D:\Repaso\RepasoS\obj\Debug\Proyect.csprojResolveAssemblyReference.cache
+D:\Repaso\RepasoS\obj\Debug\RepasoS.dll
+D:\Repaso\RepasoS\obj\Debug\RepasoS.pdb
+D:\Repaso\RepasoS\bin\ApplicationInsights.config
+D:\Repaso\RepasoS\bin\roslyn\csc.exe
+D:\Repaso\RepasoS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repaso\RepasoS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repaso\RepasoS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repaso\RepasoS\bin\roslyn\System.Collections.Immutable.dll
+D:\Repaso\RepasoS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repaso\RepasoS\bin\roslyn\vbc.exe
+D:\Repaso\RepasoS\bin\roslyn\VBCSCompiler.exe
+D:\Repaso\RepasoS\bin\roslyn\VBCSCompiler.exe.config
+D:\Repaso\RepasoS\bin\RepasoS.dll.config
+D:\Repaso\RepasoS\bin\RepasoS.dll
+D:\Repaso\RepasoS\bin\RepasoS.pdb
+D:\Repaso\RepasoS\bin\DatosV.dll
+D:\Repaso\RepasoS\bin\LogicaV.dll
+D:\Repaso\RepasoS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Repaso\RepasoS\bin\Microsoft.AI.DependencyCollector.dll
+D:\Repaso\RepasoS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Repaso\RepasoS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Repaso\RepasoS\bin\Microsoft.AI.Web.dll
+D:\Repaso\RepasoS\bin\Microsoft.AI.WindowsServer.dll
+D:\Repaso\RepasoS\bin\Microsoft.ApplicationInsights.dll
+D:\Repaso\RepasoS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repaso\RepasoS\bin\DatosV.pdb
+D:\Repaso\RepasoS\bin\LogicaV.pdb
+D:\Repaso\RepasoS\bin\Microsoft.AI.DependencyCollector.xml
+D:\Repaso\RepasoS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Repaso\RepasoS\bin\Microsoft.AI.Web.xml
+D:\Repaso\RepasoS\bin\Microsoft.AI.WindowsServer.xml
+D:\Repaso\RepasoS\bin\Microsoft.ApplicationInsights.xml
+D:\Repaso\RepasoS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Repaso\RepasoS\bin\DatosV.dll
+E:\Repaso\RepasoS\bin\LogicaV.dll
+E:\Repaso\RepasoS\bin\DatosV.pdb
+E:\Repaso\RepasoS\bin\LogicaV.pdb
+D:\Repaso\RepasoS\bin\Microsoft.Web.Infrastructure.dll
+D:\Repaso\RepasoS\bin\Rotativa.Core.dll
+D:\Repaso\RepasoS\bin\Rotativa.MVC.dll
+D:\Repaso\RepasoS\bin\System.Web.Helpers.dll
+D:\Repaso\RepasoS\bin\System.Web.Mvc.dll
+D:\Repaso\RepasoS\bin\System.Web.Razor.dll
+D:\Repaso\RepasoS\bin\System.Web.WebPages.Deployment.dll
+D:\Repaso\RepasoS\bin\System.Web.WebPages.dll
+D:\Repaso\RepasoS\bin\System.Web.WebPages.Razor.dll
+D:\Repaso\RepasoS\bin\System.Web.Helpers.xml
+D:\Repaso\RepasoS\bin\System.Web.Mvc.xml
+D:\Repaso\RepasoS\bin\System.Web.Razor.xml
+D:\Repaso\RepasoS\bin\System.Web.WebPages.xml
+D:\Repaso\RepasoS\bin\System.Web.WebPages.Deployment.xml
+D:\Repaso\RepasoS\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\DatosV.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\LogicaV.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Rotativa.Core.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\Rotativa.MVC.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\System.Web.Helpers.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\System.Web.Mvc.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\System.Web.Razor.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\System.Web.WebPages.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\DatosV.pdb
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\LogicaV.pdb
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\System.Web.Helpers.xml
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\System.Web.Mvc.xml
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\System.Web.Razor.xml
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\System.Web.WebPages.xml
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USUARIO\Desktop\Repaso\RepasoS\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\ApplicationInsights.config
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\RepasoS.dll.config
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\RepasoS.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\RepasoS.pdb
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\DatosV.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\LogicaV.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.AI.Web.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Rotativa.Core.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Rotativa.MVC.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\System.Web.Helpers.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\System.Web.Mvc.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\System.Web.Razor.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\System.Web.WebPages.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\DatosV.pdb
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\LogicaV.pdb
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.AI.Web.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\System.Web.Helpers.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\System.Web.Mvc.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\System.Web.Razor.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\System.Web.WebPages.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\obj\Debug\Proyect.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\obj\Debug\RepasoS.dll
+C:\Users\USUARIO\Desktop\Version Mi PC\Repaso\RepasoS\obj\Debug\RepasoS.pdb

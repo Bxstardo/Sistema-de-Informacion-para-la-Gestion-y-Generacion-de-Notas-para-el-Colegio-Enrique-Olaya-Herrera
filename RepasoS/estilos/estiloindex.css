@@ -1,0 +1,12 @@
+﻿body {margin:0; padding:0;text-align:center;background: #DBEBF6;}
+#content {text-align:left;margin:auto;
+
+width:100%; height:100%;position:absolute;
+    left: 0px;
+    top: 0px;
+}
+#cabecera {width:100%;height:20%;background-color:#0FF;}
+#menu {width:20%; height:65%; float:left;}
+#principal {width:80%;height:65%;float:left;}
+#pie {width:100%;height:15%;}
+#Todo {width:100%;height:100%;background-color:#0FF;}
